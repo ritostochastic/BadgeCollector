@@ -1,1 +1,1 @@
-# BadgeCollector
+# BadgeCollector.
